@@ -1,2 +1,2 @@
 # hello-world
-Hello world: Github's guide
+Hey, I'm Tecnium and I'm learning how to use Github
